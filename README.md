@@ -13,7 +13,9 @@
 
 ### В результате тестирования выявлены следующие дефекты:
 
+Приложение некорректно проверяет валидные и невалидные ключи.
 
+[Ссылка на Issues](https://github.com/FadeevaDari/JAVA_HW1.1/issues)
 
 ### В процессе тестирования использовались следующие артефакты:
 * [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
